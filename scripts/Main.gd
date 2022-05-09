@@ -13,3 +13,4 @@ func _ready():
 	get_node("LogTester/Logger").log_info("Testing info...")
 	get_node("LogTester/Logger").log_warning("Testing warning...")
 	get_node("LogTester/Logger").log_error("Testing error...")
+

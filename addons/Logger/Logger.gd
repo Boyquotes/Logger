@@ -32,3 +32,4 @@ func log_warning(msg):
 	
 func log_error(msg):
 	_log("ERROR", msg)
+
